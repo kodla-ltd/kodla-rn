@@ -2,6 +2,7 @@
   "name": "TemplateApp",
   "displayName": "TemplateApp",
   "plugins": [
-    "expo-font"
+    "expo-font",
+    "react-native-bootsplash"
   ]
 }
