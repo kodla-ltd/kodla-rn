@@ -5,7 +5,7 @@ const { resolver: defaultResolver } = getDefaultConfig(__dirname);
  * Metro configuration
  * https://reactnative.dev/docs/metro
  *
- * @type {import('metro-config').MetroConfig}
+ * @type {import('@react-native/metro-config').MetroConfig}
  */
 module.exports = function (baseConfig) {
   const defaultConfig = mergeConfig(baseConfig, getDefaultConfig(__dirname));
