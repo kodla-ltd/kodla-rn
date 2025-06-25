@@ -1,0 +1,14 @@
+{
+  "name": "@kodla/kodla-rn",
+  "version": "1.9.0",
+  "description": "Kodla React Native Template",
+  "author": "Kodla LTD.",
+  "license": "ISC",
+  "scripts": {
+    "check-types": "cd template && npm run check-types",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "^9.0.11"
+  }
+}

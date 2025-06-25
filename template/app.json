@@ -1,0 +1,7 @@
+{
+  "name": "TemplateApp",
+  "displayName": "TemplateApp",
+  "plugins": [
+    "expo-font"
+  ]
+}
