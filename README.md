@@ -5,8 +5,8 @@ npx @react-native-community/cli init MyAppName --skip-install --template git+htt
 ```
 
 ## Versions
-- react: 18.3.0
-- react-native: 0.74.1
+- react: 19.0.0
+- react-native: 0.79.4
 
 ---
 ### Note on the legacy CLI (**Please read**)
